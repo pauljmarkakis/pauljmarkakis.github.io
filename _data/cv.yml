@@ -2,31 +2,22 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Paul J. Markakis
     - name: Languages
-      value: English, German
+      value: English, Spanish, Greek
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: PhD in Electrical and Computer Engineering
+      institution: Duke University, Durham, NC
+      degree completed: In Progress (Expected Graduation: 2025)
+    - title: M.S.E. in Applied Mathematics and Statistics
+      institution: Johns Hopkins University, Baltimore, MD
+      degree completed: May 2015
+    - title: B.S. in Applied Mathematics and Statistics
+      institution: Johns Hopkins University, Baltimore, MD
+      degree completed: May 2015
 
 - title: Experience
   type: time_table
