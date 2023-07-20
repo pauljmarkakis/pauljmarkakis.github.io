@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: teaching history & experience
 nav: true
-nav_order: 5
+nav_order: 3
 ---
 
 ## Teaching Assistant Experience
