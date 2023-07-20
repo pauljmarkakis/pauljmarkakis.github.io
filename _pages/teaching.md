@@ -2,11 +2,11 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Teaching History & Experience
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+## Teaching Assistant Experience
+- Teaching Assistant, Discrete Mathematics, Johns Hopkins University, Spring 2015
+- Teaching Assistant, Linear Algebra and Differential Equations, Johns Hopkins University, Fall 2014
