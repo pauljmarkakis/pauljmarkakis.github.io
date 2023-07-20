@@ -7,7 +7,7 @@ subtitle: PhD Student | Electrical and Computer Engineering | Duke University
 profile:
   align: right
   image: paul_markakis-headshot-2022.JPG
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
